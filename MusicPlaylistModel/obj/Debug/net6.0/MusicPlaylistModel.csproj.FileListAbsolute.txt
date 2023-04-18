@@ -1,0 +1,17 @@
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\bin\Debug\net6.0\MusicPlaylistModel.deps.json
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\bin\Debug\net6.0\MusicPlaylistModel.runtimeconfig.json
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\bin\Debug\net6.0\MusicPlaylistModel.dll
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\bin\Debug\net6.0\MusicPlaylistModel.pdb
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\obj\Debug\net6.0\MusicPlaylistModel.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\obj\Debug\net6.0\MusicPlaylistModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\obj\Debug\net6.0\MusicPlaylistModel.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\obj\Debug\net6.0\MusicPlaylistModel.AssemblyInfo.cs
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\obj\Debug\net6.0\MusicPlaylistModel.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\obj\Debug\net6.0\MusicPlaylistModel.dll
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\obj\Debug\net6.0\refint\MusicPlaylistModel.dll
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\obj\Debug\net6.0\MusicPlaylistModel.pdb
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\obj\Debug\net6.0\MusicPlaylistModel.genruntimeconfig.cache
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\obj\Debug\net6.0\ref\MusicPlaylistModel.dll
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\bin\Debug\net6.0\DTO.dll
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\bin\Debug\net6.0\DTO.pdb
+C:\Users\jessi\source\repos\MusicPlaylistModel\MusicPlaylistModel\obj\Debug\net6.0\MusicPlaylistModel.csproj.CopyComplete
